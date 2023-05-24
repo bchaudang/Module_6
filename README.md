@@ -5,7 +5,8 @@ There were two parts to this challenge, WeatherPy and VacationPy.
 ---------------------------------------------------------
 
 The first part of the assignment, WeatherPy, was relatively straight forward and used alot of the skills and code that was used in the previous assignment, considering the majority of this part was to create scatter plots and linear regression.
-Howver, the second part of the assignment, VacationPy, I ran into quite a few roadblocks and utilized askBCS Learning Assistants, a tutor as well as classmates to help with some issues I ran into. For one, I was unable to retrieve any data for the hotels, my data was coming up with "no hotels found", which was extremely frustrating. I had attempted multiple different codes with aid. At the end, it was a simple error in spelling, which would have saved me hours of combing through my code. A spelling error in which none of the assistance above caught either. Overall, the assignment defintely taught me alot, especially that minor things such as an extra letter, a comma, or even a bracket are detrimental.
+Howver, the second part of the assignment, VacationPy, I ran into quite a few roadblocks and utilized askBCS Learning Assistants, a tutor session, our course TA, as well as other classmates to help with some issues I ran into. 
+For one, I was unable to retrieve any data for the hotels, my data was coming up with "no hotels found", which was extremely frustrating. I had attempted multiple different codes with aid. At the end, it was a simple error in spelling, which would have saved me hours of combing through my code. A spelling error in which none of the assistance above caught either. Overall, the assignment defintely taught me alot, especially that minor things such as an extra letter, a comma, or even a bracket are detrimental. 
 
 ---------------------------------------------------------
 
